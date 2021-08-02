@@ -1,0 +1,22 @@
+.aboutme {
+  height: 800px;
+  .title {
+    font-size: 30px;
+  }
+  .tools {
+    color: crimson;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  p {
+    font-size: 20px;
+  }
+}
+
+.btn {
+  cursor: pointer;
+  background-color: rgb(7, 77, 241);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+}
